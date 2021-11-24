@@ -1,3 +1,5 @@
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/wizardigor/DIO-scoutflix)
+
 # DIO-scoutflix
  Segundo projeto DIO - Recriando a Interface do Netflix
 
