@@ -1,13 +1,13 @@
 /*
 :root{
     --vermelho:#E50914;
-    --preta:#141414;
+    --caqui:#141414;
 }
 */
 
 :root{
-    --vermelho:#68570d;
-    --preta:#d8d798;
+    --marom:#68570d;
+    --caqui:#d8d798;
 }
 
 *{
@@ -18,7 +18,7 @@
 
 /*elementos base*/
 body{
-   background: var(--preta);
+   background: var(--caqui);
    font-family: 'Arial', Times, serif;
    color:white;
 }
@@ -34,7 +34,7 @@ header .container{
 
 header .logo{
     margin-left: 5px;
-    color: var(--vermelho);
+    color: var(--marom);
     font-family: 'Arial Black', Times;
     font-size:40px;
 }
